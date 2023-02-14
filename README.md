@@ -1,2 +1,3 @@
 # hgol
-> haskell game of life
+
+> Finally, Game of Life in Haskell
